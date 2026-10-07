@@ -15,11 +15,13 @@ FAKE NEWS PREDICTION | STATISTICAL NLP MODELING
 - Performed text preprocessing (normalization, stemming, stopword removal) to enhance feature quality and reduce dimensional noise.
 - Applied stratified sampling and structured train-test validation to ensure unbiased performance evaluation.
 - Achieved 97.9% test accuracy, demonstrating strong generalization capability.
+
 HEART DISEASE PREDICTION | APPLIED STATISTICAL LEARNING
 - Modeled cardiovascular risk using Logistic Regression on structured biomedical data (303 samples, 13 predictors).
 - Conducted statistical exploration and feature-target relationship analysis to interpret predictive behavior.
 - Achieved 81.97% test accuracy, reinforcing applied knowledge of supervised learning and probabilistic decision boundaries.
 - Integrated mathematical reasoning with practical data analysis for real-world healthcare applications.
+
 FLIGHT PRICE PREDICTION | EXPLORATORY DATA ANALYSIS & FEATURE ENGINEERING	
 - Performed comprehensive exploratory data analysis on 13,000+ flight records using Python (Pandas, NumPy), examining statistical distributions, missing values, and data consistency.
 - Engineered structured numerical features by decomposing datetime variables, transforming duration into quantitative form, and encoding categorical and ordinal variables using Label Encoding and One-Hot Encoding.
