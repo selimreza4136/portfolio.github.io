@@ -1,5 +1,6 @@
 # Data Analyst
-
+### Summary
+"I am a data-driven professional with a strong background in Mathematics and 3 years of experience in Python programming. Skilled in data cleaning, manipulation, extraction, and processing, I am well-versed in statistical techniques such as regression, classification, and clustering. I am passionate about turning data into actionable insights and driving business decisions. Let's connect and see how I can help your organization achieve its goals."
 ### Education
 Bachelor of Mathematics, University of Rajshahi
 GPA 2.95/4.0
