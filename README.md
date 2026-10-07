@@ -31,7 +31,7 @@ Programming Languages: Python, SQL, MATLAB, Fortran
 Packages and Libraries: Pandas, Numpy, Matplotlib, Seaborn,  Scikit-learn, NLTK, PyTorch
 ML Algorithoms: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, kNN, Naïve Bayes 
 Visualization tools: PowerBI
-Familarity with: GenAI, Agentic AI
+Familarity with: GenAI, Agentic AI, RAG
 ### Extracurricular Activities
 - Worked at a theatre organization as a press and publication secretary and perform several stage dramas to raise awareness among people about social issues.
 - Completed a month-long leadership training which was organized by CCP and funded by John Hopkins University
