@@ -27,6 +27,12 @@ FLIGHT PRICE PREDICTION | EXPLORATORY DATA ANALYSIS & FEATURE ENGINEERING
 - Performed comprehensive exploratory data analysis on 13,000+ flight records using Python (Pandas, NumPy), examining statistical distributions, missing values, and data consistency.
 - Engineered structured numerical features by decomposing datetime variables, transforming duration into quantitative form, and encoding categorical and ordinal variables using Label Encoding and One-Hot Encoding.
 - Constructed a fully numerical, dimensionally consistent dataset suitable for regression modeling, emphasizing mathematical structure, feature transformation, and analytical rigor.
+
+Sales Dashboard | Microsoft Excel
+- Developed an interactive sales and profitability dashboard in Excel to analyze $645K in revenue, $296K in profit, 6,698 units sold, and 2,707 orders.
+- Built Pivot Tables, Pivot Charts, KPI cards, slicers, and interactive visualizations to monitor monthly revenue and profit trends, product categories, sales channels, quarters, and country-level performance.
+- Analyzed revenue contribution by sales channel and European region and identified top-performing markets, with the UK and Germany among the leading countries by revenue.
+- Designed a geographic sales map and dynamic filtering system to enable stakeholders to drill down into performance by country, category, channel, and quarter.
 ### Technical Skills
 Programming Languages: Python, SQL, MATLAB, Fortran
 Packages and Libraries: Pandas, Numpy, Matplotlib, Seaborn,  Scikit-learn, NLTK, PyTorch
